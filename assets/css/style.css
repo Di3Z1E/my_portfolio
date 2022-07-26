@@ -19,7 +19,8 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.gif") top right no-repeat;
+  /* background: #040404 url("https://wallpaperaccess.com/full/869923.gif") top right no-repeat; */
+  background: #040404 url("https://thumbs.gfycat.com/UnderstatedScentedDuck-size_restricted.gif") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
